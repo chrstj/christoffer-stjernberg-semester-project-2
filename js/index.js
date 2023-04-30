@@ -24,5 +24,3 @@ function createHtml(product) {
                                 <img src="https://images.unsplash.com/photo-1465877783223-4eba513e27c6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740" width="600" height="500" alt="${product.hero_banner_alt_text}">                                                
                                 </div>`;
 };
-
-s
