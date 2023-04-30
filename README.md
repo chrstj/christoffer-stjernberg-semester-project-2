@@ -34,5 +34,6 @@ npm install
 To run the app, run the following commands:
 
 ```bash
-npm run start
+npm run develop
 ```
+You can run the project locally by pressing "Go Live", this will open a port e.g. "http://127.0.0.1:5501/"
